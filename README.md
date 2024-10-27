@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi 👋, I'm Gulnaaz Parveen
 
-<!--
-**GulnaazParveen/GulnaazParveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Subtitle:**  
+A passionate MERN stack developer from India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work
+
+### 🛠️ I’m currently working on
+- **Project Name**: Job Portal  
+  [Project Link](https://github.com/GulnaazParveen/jobPortal_Mern)
+
+
+### 🌱 I’m currently learning
+- **Technology**: Socket.io for real-time applications  
+
+### 💬 Ask me about
+- React, Express, MongoDB, Node.js, and Socket.io
+
+### 📫 How to reach me
+- **Email**: gulnaazparweenpap@gmail.com
+
+---
+
+Feel free to modify the links and any additional information as per your preference!
